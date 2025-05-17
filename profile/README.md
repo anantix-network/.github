@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/anantix-network/.github/refs/heads/main/profile/banner.svg"/>
+
 # 🌐 Anantix Network  
 
 **Empowering Connectivity, Enabling Innovation**  
